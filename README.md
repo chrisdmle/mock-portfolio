@@ -17,5 +17,6 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 Deployed Application: https://chrisdmle.github.io/Horiseon-accessibility/
+
 Screenshot of Application:
 ![mock-sc](https://user-images.githubusercontent.com/107082980/175440339-cbb620b2-d3a9-43bc-ab4e-f789b60c764b.jpg)
